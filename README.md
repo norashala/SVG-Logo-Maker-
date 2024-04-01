@@ -27,11 +27,3 @@ Follow the Prompts: The application will prompt you to enter text, text color, s
 View the Result: Once you've provided all the inputs, the application will generate a file named logo.svg in the same directory. You can open this file in a web browser to see your logo.
 Example
 
-Here's a simple example of how you might use the application:
-
-bash
-$ node index.js
-? Enter text (up to three characters): ABC
-? Enter text color: blue
-? Choose a shape: circle
-? Enter shape color: red
