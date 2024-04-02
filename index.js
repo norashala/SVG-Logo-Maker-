@@ -3,7 +3,7 @@ import inquirer from "inquirer";
 import fs from "fs";
 import { Square, Circle, Triangle } from "./lib/shapes.js";
 
-// shrimp can see more
+
 const PRE_CANNED_COLOR_OPTIONS = ["red", "green", "blue", "black", "white"];
 
 function colorValidation(input) {
